@@ -111,39 +111,13 @@
     },
     {
       "name": "Matthew",
-      "species": "lemur",
-      "diet": "omnivore",
+      "species": "Platypus",
+      "diet": "herbivore",
       "personalityTraits": [
-        "hungry"
+        "hungry",
+        "goofy"
       ],
       "id": "11"
-    },
-    {
-      "name": "Matthew",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "12"
-    },
-    {
-      "name": "Matthew",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "13"
-    },
-    {
-      "name": "m",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "14"
     }
   ]
 }
